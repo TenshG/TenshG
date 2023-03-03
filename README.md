@@ -3,7 +3,7 @@
 <!--
 **TenshG/TenshG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<!--<h1 align="center">Hi 👋, I'm Gaute</h1>
+<h1 align="center">Hi 👋, I'm Gaute</h1>
 <h3 align="center">A tech-savy fullstack dev student from Norway</h3>
 
 - 🔭 I’m currently working on **A website for a friend**
@@ -24,4 +24,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tenshg&show_icons=true&locale=en&layout=compact" alt="tenshg" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tenshg&show_icons=true&locale=en" alt="tenshg" /></p>
--->
+
